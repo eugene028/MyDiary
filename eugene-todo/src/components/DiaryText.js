@@ -52,6 +52,7 @@ const DiaryText = ({onInsert ,onRemove}) => {
         localStorage.setItem('DIARY', JSON.stringify(newList));
         setEdit(false);
         setPower(false);
+        body("")
         e.preventDefault();
     }
 

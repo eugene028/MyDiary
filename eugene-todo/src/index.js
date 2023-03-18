@@ -13,7 +13,7 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <RecoilRoot>
+  <RecoilRoot basename = {process.env.PUBLIC_URL}>
     <BrowserRouter>
       <App />
     </BrowserRouter>

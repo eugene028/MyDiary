@@ -1,7 +1,6 @@
 import { Route, Routes } from '../node_modules/react-router-dom/dist/index';
 import TodoHome from './pages/TodoHome';
 import Diary from './pages/Diary';
-import styled from 'styled-components';
 
 function App() {
   return (
