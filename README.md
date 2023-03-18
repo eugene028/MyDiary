@@ -11,6 +11,7 @@ https://eugene028.github.io/MyDiary/
 <ul>
   <li><a href = "https://velog.io/@gene028/TodoApp-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-react-datepicker-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8B%AC%EB%A0%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0">React-DatePicker를 이용하여 달력 만들기</a>
   <li><a href = "https://velog.io/@gene028/TodoApp%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-2-%EC%95%B1-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0">앱 최적화하기 과정</a>
+  <li<a href="https://velog.io/@gene028/npm-%EC%98%A4%EB%A5%98-%EB%A9%88%EC%B6%B0">npm 오류 멈춰!! </a>
 </ul>
 
 ## 스크린샷 📸
